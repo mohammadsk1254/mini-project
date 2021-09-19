@@ -1,11 +1,11 @@
-# SDLC Activity Based Learning Project
+# STEPin MiniProject-C
 
 ## Github actions
-Build | Code Quality | Unity | [Git Inspector]
-------|----------|-------|--------------
-[![C/C++ CI - Build Status](https://github.com/manoharbrvara/Stepin_mini_project_LTTS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/manoharbrvara/Stepin_mini_project_LTTS/actions/workflows/c-cpp.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f1a82b689a7d4f7fb363ea16ccbdd5b8)](https://www.codacy.com/gh/manoharbrvara/Stepin_mini_project_LTTS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=manoharbrvara/Stepin_mini_project_LTTS&amp;utm_campaign=Badge_Grade)
-[![Code Quality - Static Code - Cppcheck](https://github.com/manoharbrvara/Stepin_mini_project_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/manoharbrvara/Stepin_mini_project_LTTS/actions/workflows/cppcheck.yml) 
-[![Contribution Check - Git Inspector](https://github.com/manoharbrvara/Stepin_mini_project_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/manoharbrvara/Stepin_mini_project_LTTS/actions/workflows/gitinspector.yml)
+
+
+[![C/C++ CI - Build Status](https://github.com/mohammadsk1254/mini-project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/mohammadsk1254/mini-project/actions/workflows/c-cpp.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/mohammadsk1254/mini-project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/mohammadsk1254/mini-project/actions/workflows/cppcheck.yml) 
+[![Contribution Check - Git Inspector](https://github.com/mohammadsk1254/mini-project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/mohammadsk1254/mini-project/actions/workflows/gitinspector.yml)
 
 
 
@@ -25,9 +25,9 @@ Folder             | Description
 <!--lint disable no-duplicate-headings-->
 ## Contributors List and Summary
 
-SF ID  |  Name   
+PS NO  |  Name   
 -------|---------
-260848 | Bravara Manohar     
+99006156  |shaik mohammad      
 
 <!--lint disable no-duplicate-headings-->
 ### Challenges Faced and How Was It Overcome
